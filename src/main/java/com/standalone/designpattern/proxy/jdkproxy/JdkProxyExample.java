@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * TODO
+ * TODO JDK代理例子
  * 2019/1/16 10:54
  */
 public class JdkProxyExample implements InvocationHandler{

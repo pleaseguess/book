@@ -1,7 +1,7 @@
 package com.standalone.designpattern.proxy.jdkproxy;
 
 /**
- * TODO
+ * TODO JDK代理测试
  * 2019/1/16 11:12
  */
 public class HelloWorldTest {
