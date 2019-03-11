@@ -31,5 +31,6 @@
 
     <mappers>
         <mapper resource="mapper/ItemMapper.xml"/>
+        <mapper resource="mapper/ItemInfoMapper.xml"/>
     </mappers>
 </configuration>
